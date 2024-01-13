@@ -1,4 +1,4 @@
-
+GRAPHWALKER
 
 This C++ code represents a program that works with graphs, which are a way to model relationships between entities. 
 
